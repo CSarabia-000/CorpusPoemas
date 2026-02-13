@@ -34,10 +34,15 @@ Aplicar técnicas de web scraping y procesamiento de texto para:
 ## Estructura
 CorpusPoemas/
 │
+
 ├── Web_scraping.ipynb
+
 ├── Analisis_estadistico.ipynb
+
 ├── README.md
+
 └── data/
+
 └── poemas_completo.csv
 
 - `Web_scraping.ipynb`: notebook para la extracción automática de poemas desde la web.  
